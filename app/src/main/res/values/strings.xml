@@ -4,7 +4,6 @@
     <string name="login">Login</string>
     <string name="senha">Senha</string>
     <string name="email">E-mail</string>
-    <string name="entrar">Entrar</string>
     <string name="cadastrar">Cadastrar</string>
 
 </resources>
